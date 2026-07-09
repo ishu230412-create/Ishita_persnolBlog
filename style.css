@@ -1,0 +1,32 @@
+.travel_maindiv{
+    border: 1px solid lightgrey;
+    background-color: #f59b7a;
+       font-family: "Syne Mono", monospace;
+}
+.travel_maindiv img{
+    width: 70%;
+    height: 500px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom:15px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color:orange;
+}
+#books img{
+    width: 350px;
+    height: 550px;
+}
+#contact iframe{
+    width: 100%;
+}
+#contact img{
+    width: 300px;
+    height:300px;
+}
